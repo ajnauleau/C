@@ -1,6 +1,12 @@
 
+/*  BLOWFISH Symmetrical Encryption Algorithm
+ * useful for small devices with minimal memory,
+ * such as embedded. Invented by Bruce Schneier */
 
-uint32_t P[18];
+#define MAXKEYBYTES 56    /* 448 bits */
+#define N   16
+
+uint32_t P[16 + 2];
 uint32_t S[4][256];
 
 uint32_t f (uint32_t x) {
