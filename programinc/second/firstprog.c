@@ -7,6 +7,7 @@
 int main (void)
 {
     printf("writing my first c program\n");
+    printf("and writting in c is so much fun\n");
 
     return 0;
 }

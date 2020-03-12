@@ -10,8 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e30d81fb-e29b-4ac2-a8ab-6ffefb131597" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blowfish.c" beforeDir="false" afterPath="$PROJECT_DIR$/blowfish.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedlist.c" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlist.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programinc/second/displayvar.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programinc/second/syntaxerr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programinc/second/firstprog" beforeDir="false" afterPath="$PROJECT_DIR$/programinc/second/firstprog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programinc/second/firstprog.c" beforeDir="false" afterPath="$PROJECT_DIR$/programinc/second/firstprog.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,35 +41,35 @@
     <session id="-1672826664">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="c" value="2" />
+          <entry key="c" value="5" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CMakeLists.txt" value="1" />
-          <entry key="ObjectiveC" value="2" />
+          <entry key="ObjectiveC" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="35" />
-          <entry key="ObjectiveC" value="213" />
+          <entry key="ObjectiveC" value="728" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="c" value="213" />
+          <entry key="c" value="728" />
           <entry key="txt" value="35" />
         </counts>
       </usages-collector>
@@ -87,8 +90,35 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blowfish.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="47" column="32" lean-forward="true" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+            <state relative-caret-position="339">
+              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programinc/second/firstprog.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programinc/second/displayvar.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programinc/second/syntaxerr.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -104,6 +134,9 @@
         <option value="$PROJECT_DIR$/linkedlist.c" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/blowfish.c" />
+        <option value="$PROJECT_DIR$/programinc/second/firstprog.c" />
+        <option value="$PROJECT_DIR$/programinc/second/displayvar.c" />
+        <option value="$PROJECT_DIR$/programinc/second/syntaxerr.c" />
       </list>
     </option>
   </component>
@@ -115,9 +148,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="620" />
-    <option name="y" value="47" />
+    <option name="y" value="23" />
     <option name="width" value="1060" />
-    <option name="height" value="993" />
+    <option name="height" value="992" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -130,6 +163,17 @@
             <path>
               <item name="C" type="b2602c69:ProjectViewProjectNode" />
               <item name="C" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C" type="462c0819:PsiDirectoryNode" />
+              <item name="programinc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C" type="462c0819:PsiDirectoryNode" />
+              <item name="programinc" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,6 +188,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/programinc/second" />
+      <recent name="$PROJECT_DIR$/programinc" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,18 +233,23 @@
       <workItem from="1535330749706" duration="855000" />
       <workItem from="1535333214938" duration="276000" />
       <workItem from="1535468799991" duration="1444000" />
+      <workItem from="1535875763935" duration="1153000" />
+      <workItem from="1535966445406" duration="1445000" />
+      <workItem from="1536040584330" duration="1189000" />
+      <workItem from="1536382309936" duration="41000" />
+      <workItem from="1536382384970" duration="105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2954000" />
+    <option name="totallyTimeSpent" value="6887000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="111" width="1060" height="1000" extended-state="0" />
+    <frame x="620" y="23" width="1060" height="992" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49425286" visible="true" weight="0.2691552" />
-      <window_info id="Structure" order="1" sideWeight="0.50574714" side_tool="true" visible="true" weight="0.2691552" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4859504" visible="true" weight="0.29469547" />
+      <window_info id="Structure" order="1" sideWeight="0.5140496" side_tool="true" visible="true" weight="0.29469547" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -205,9 +260,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32929516" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32777777" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" order="11" visible="true" weight="0.32929516" />
+      <window_info anchor="bottom" id="CMake" order="11" visible="true" weight="0.32777777" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -231,10 +286,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/programinc/second/firstprog.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programinc/second/displayvar.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programinc/second/syntaxerr.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blowfish.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="47" column="32" lean-forward="true" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+        <state relative-caret-position="339">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
